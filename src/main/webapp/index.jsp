@@ -7,4 +7,3 @@
 <a href="services.jsp"> Services page</a>
 </body>
 </html>
-C:\Users\Sachin\eclipse-workspace\javaapp\target\javaapp.war
